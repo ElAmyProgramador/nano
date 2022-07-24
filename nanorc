@@ -1,0 +1,14 @@
+set linenumbers
+set autoindent
+set tabsize 4
+set numbercolor italic,black,white
+set keycolor italic,black,white
+set statuscolor italic,black,white
+set functioncolor italic,black,white
+set emptyline
+set errorcolor italic,black,red
+set functioncolor italic,cyan,black
+set jumpyscrolling
+set selectedcolor italic,black,white
+set statuscolor italic,black,white
+set titlecolor italic,black,white
